@@ -36,12 +36,6 @@ The following packages are required:
 3. Watch as the script automatically generates points for your account
 4. Press `Ctrl+z` to stop the bot when you've reached your desired points
 
-## 🔎 How It Works
-1. The script connects to the Dropee API using your Telegram authentication
-2. It sends optimized tap requests to the server
-3. Each request simulates multiple taps to maximize point generation
-4. The process repeats automatically until you stop it
-
 ## ⚠️ Disclaimer
 This tool is for educational purposes only. Use at your own risk and responsibility.
 
